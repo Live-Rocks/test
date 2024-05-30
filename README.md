@@ -2,6 +2,10 @@
 
 This project is a learning task module that uses on-chain records to retain all data, ensuring fair distribution of rewards.
 
+Fren Suipport is a platform themed around the Suifrens NFT universe. The primary function of this platform is to facilitate the exchange of labor and assets in the web3 world, offering a variety of features including public tasks, private tasks, charity crowdfunding, and product crowdfunding. Currently, the first phase has implemented the public tasks feature.
+
+Fren Suipport aims to enable individuals without any web3 assets to seamlessly enter the web3 world. Without relying on centralized exchanges, users can earn their first web3 assets directly through activities such as learning, providing labor, and participating in submission competitions.
+
 <img width="1512" alt="image" src="https://drive.google.com/file/d/1D0HIoMT8lyv4p46dzw0V8USZ40HbyFFM/view?usp=sharing">
 <br/>
 
@@ -36,7 +40,7 @@ Fill out various details to ensure complete communication of the content.
 
 <br/>
 
-# Main Object
+# Main Sui Object
 
 ## 1. Main Task
 Defines task fields, task manager, etc. Only those with the publication permission object can modify the task description.
