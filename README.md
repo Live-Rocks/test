@@ -6,12 +6,12 @@ Fren Suipport is a platform themed around the Suifrens NFT universe. The primary
 
 Fren Suipport aims to enable individuals without any web3 assets to seamlessly enter the web3 world. Without relying on centralized exchanges, users can earn their first web3 assets directly through activities such as learning, providing labor, and participating in submission competitions.
 
-<img width="1512" alt="image" src="https://drive.google.com/file/d/1D0HIoMT8lyv4p46dzw0V8USZ40HbyFFM/view?usp=sharing">
+
 <br/>
 
-Web: <https://sui-hackthon.vercel.app/>
+Web: <https://frensuipport.vercel.app/>
 <br/>
-Does: <>
+Does: <https://aa5961311s-organization.gitbook.io/fren-suipport>
 <br/>
 Git: <https://github.com/u2789011/suiHackthon>
 
@@ -23,12 +23,6 @@ Powered by Fren Suipport team.
 # User Process
 
 ## 1. Publish Task
-
-<img width="1512" alt="image" src="https://drive.google.com/file/d/1Oofqt261wU63LizpiGQCArCvQpw_AXy2/view?usp=drive_link">
-
-Fill out various details to ensure complete communication of the content.
-<br/>
-
 
 ## 2. Accept Task
 
